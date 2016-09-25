@@ -1,5 +1,5 @@
 ---
-title: "Sunset at Montgomery Hill Park- September 20, 2016"
+title: "Sunset at Montgomery Hill Park - September 20, 2016"
 author: "Justin Too"
 header:
   image: 2016/09-september/20-sunset-at-montgomery-hill-park/header.jpg
