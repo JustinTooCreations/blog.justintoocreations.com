@@ -12,6 +12,7 @@ tags:
   - autumn
   - sunrise
   - clouds
+  - fowler creek park
   - evergreen hills
   - san jose
   - california
@@ -53,8 +54,8 @@ And at 6:59 AM, I had the blessing of capturing this gorgeous Friday sunrise. Ha
 | Item | Description
 |-|-
 | Capture Date | `September 22, 2016`
-| Capture Time | `6:59.38 AM`
-| Sunrise Time | `6:58 AM PST`
+| Capture Time | `6:59.38 AM PST`
+| Sunrise Time | `6:58.00 AM PST`
 |---
 
 # Camera Settings
