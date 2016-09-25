@@ -7,16 +7,17 @@ categories:
   - photography
   - landscape
 tags: 
-  - friday
-  - september
   - autumn
-  - sunrise
-  - clouds
-  - fowler creek park
-  - evergreen hills
-  - san jose
   - california
+  - clouds
+  - evergreen
+  - fowler creek park
+  - friday
+  - hills
   - landscape
+  - san jose
+  - september
+  - sunrise
 ---
 
 My body just woke up at 5:30 AM this morning so I decided to get out of bed to go capture the morning sunrise.

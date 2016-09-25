@@ -9,18 +9,18 @@ categories:
   - engagement
   - landscape
 tags: 
-  - tuesday
-  - september
   - autumn
-  - sunset
-  - clouds
-  - trees
-  - hills
-  - montomgery hill park
-  - evergreen hills
-  - san jose
   - california
+  - clouds
+  - evergreen
+  - hills
   - landscape
+  - montomgery hill park
+  - san jose
+  - september
+  - sunset
+  - trees
+  - tuesday
 ---
 
 There was such a gorgeous sunset this evening in the western horizon from the [Evergreen Hills](https://en.wikipedia.org/wiki/Evergreen,_San_Jose,_California) in San Jose. I just had to get back outside when I got home from work to take this romantic picture with my beautiful fiancée.
