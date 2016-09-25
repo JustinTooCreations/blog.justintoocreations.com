@@ -42,8 +42,6 @@ It's not the easiest walk up the hill, but it's well worth the effort. At the to
 
 We sat on the hilltop until the stars began to shine in the night sky. And it was such a beautiful summer evening with warm weather, this gorgeous sunset, and the love of my life. And we were't alone. There was a steady flow of couples, families, and mountain bicyclists throughout the Park, but it never felt crowded and everyone else was very polite and friendly.
 
-Montomgery Hill Park is definitely a great location for beautiful pictures in the beautiful rolling hills of Evergreen in southeast San Jose. I can't wait to come back in the Springtime for a recreation of this photo when the hills are lush and green.
-
 {% capture fig_img %}
 ![Night time view of Evergreen Valley College from Montgomery Hill Park on September 20, 2016]({{ base_path }}/images/2016/09-september/20-sunset-at-montgomery-hill-park/evergreen-college-at-night.jpg)
 {% endcapture %}
@@ -52,6 +50,8 @@ Montomgery Hill Park is definitely a great location for beautiful pictures in th
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo by Justin Too.</figcaption>
 </figure>
+
+Montomgery Hill Park is definitely a great location for beautiful pictures in the beautiful rolling hills of Evergreen in southeast San Jose. I can't wait to come back in the Springtime for a recreation of this photo when the hills are lush and green.
 
 # Location
 
