@@ -8,4 +8,4 @@ bundle:
 	bundle install
 
 run: bundle
-	bundle exec jekyll serve --config _config.localhost.yml --drafts
+	bundle exec jekyll serve --config _config.localhost.yml --drafts --port 4012
